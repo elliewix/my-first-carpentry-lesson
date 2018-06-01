@@ -25,4 +25,16 @@ You can make a list like:
 - cool
 - yo
 
+You can use `+` for a list as well.  
+
++ sup
++ cool
++ yo
+
+You can have numbered lists.  
+
+1. workshop one
+1. workshop 2
+1. fizzzy
+
 {% include links.md %}
