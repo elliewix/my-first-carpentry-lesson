@@ -37,4 +37,22 @@ You can have numbered lists.
 1. workshop 2
 1. fizzzy
 
+fizzzy \*\*vs `**` vs **vs hello vs**
+
+*nice* foo
+
+Nested lists:
+
+- things
+  * stuff
+  * stuff
+  * ```
+    poop
+    doop
+    ```
+  * more
+    even more
+    more more
+- more
+
 {% include links.md %}
