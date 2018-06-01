@@ -24,3 +24,8 @@ This is our first execcise.
 > > the first one
 > {: .solution}
 {: .challenge}
+
+~~~
+print("sup")
+~~~
+{: .language-python}
