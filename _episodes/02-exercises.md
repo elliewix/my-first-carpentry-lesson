@@ -29,3 +29,17 @@ This is our first execcise.
 print("sup")
 ~~~
 {: .language-python}
+
+``` python
+print("sup")
+```
+
+~~~
+print("sup")
+~~~
+{: .languague-python}
+
+~~~
+sup
+~~~
+{: .output)
