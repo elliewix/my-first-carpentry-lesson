@@ -13,7 +13,7 @@ objectives:
 keypoints:
 - "Markdown is a markup language in plain text that can be converted to HTML."
 - "You can use `-` to start a list."
-- "You use `![title](url)' to insert a figure.
+- "You use `![title](url)` to insert a figure.
 ---
 
 {% include links.md %}
