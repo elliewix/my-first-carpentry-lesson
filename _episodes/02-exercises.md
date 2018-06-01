@@ -10,4 +10,15 @@ keypoints:
 - "something in anything"
 ---
 
-Yooooo
+This is our first execcise.
+
+> ## Which is the right list?
+> 
+> Which one of these is a correctly formatted list?
+> - `["name1", "name2"]`
+> - `["name1" "name2"]`
+> - `{hello, there}`
+> 
+> > ## Solution
+> > 
+> > the first one
