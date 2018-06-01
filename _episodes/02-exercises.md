@@ -37,7 +37,7 @@ print("sup backticks")
 ~~~
 print("sup")
 ~~~
-{: .languague-python}
+{: .language-python}
 
 ~~~
 sup
