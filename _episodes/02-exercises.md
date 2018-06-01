@@ -43,3 +43,8 @@ print("sup")
 sup
 ~~~
 {: .output)
+
+~~~
+that didn't work
+~~~
+{: .error}
