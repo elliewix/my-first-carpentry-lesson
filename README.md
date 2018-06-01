@@ -1,6 +1,6 @@
-# FIXME Lesson title
+# Worskshop demo (not a real lesson)
 
-FIXME
+This is a repo I'm making as part of a workshop I'm taking.
 
 ## Contributing
 
