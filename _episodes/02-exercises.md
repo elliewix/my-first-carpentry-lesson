@@ -22,5 +22,5 @@ This is our first execcise.
 > > ## Solution
 > > 
 > > the first one
-> > {: .solution}
-> {: .challenge}
+> {: .solution}
+{: .challenge}
