@@ -12,7 +12,7 @@ keypoints:
 
 This is our first execcise.
 
-> ## Which is the right list?
+> ## a question here
 > 
 > Which one of these is a correctly formatted list?
 > - `["name1", "name2"]`
@@ -22,3 +22,5 @@ This is our first execcise.
 > > ## Solution
 > > 
 > > the first one
+> > {: .solution}
+> {: .challenge}
